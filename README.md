@@ -1,2 +1,2 @@
-# coffeemanJ.github.io
+# CoffeemanJ.github.io
 Specialty Coffee Web site
